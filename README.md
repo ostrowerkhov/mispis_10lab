@@ -1,2 +1,3 @@
 # mispis_10lab
-![alt text](1.jpg)
+![Image alt](https://github.com/ostrowerkhov/mispis_10lab/blob/master/1.png)
+![Image alt](https://github.com/ostrowerkhov/mispis_10lab/blob/master/2.png)
